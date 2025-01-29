@@ -60,7 +60,7 @@ scipy
 seaborn
 selenium
 snowflake
-snowflake-connector-python==3.0.3
+snowflake-connector-python==3.13.1
 SQLAlchemy
 sqlfluff
 sqlparse
